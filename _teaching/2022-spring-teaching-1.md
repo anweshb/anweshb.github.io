@@ -8,8 +8,8 @@ date: 2022-01-01
 location: "Greater Noida, India"
 ---
 
-I conducted lab sessions for 1st year CSE undergraduates, where I was responsible for curating lab questions, grading and holding lab examinations.
-I was the first undergraduate TA in our department!a
+I conducted lab sessions for 1st year CSE undergraduates, where I was responsible for curating lab questions, grading and holding lab examinations for a batch of 30 students.
+I was the first undergraduate TA in our department!
 
 
 <!-- 
