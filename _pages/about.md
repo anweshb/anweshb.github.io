@@ -15,7 +15,7 @@ redirect_from:
 
 🐝 Previously, I spent 8 months as a research intern at the Georgia Institute of Technology where I was advised by [Prof Wenke Lee](https://wenke.gtisc.gatech.edu) and [Prof Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) where I worked to detect attacks in Cyber Physical Systems using Deep Learning and Computer Vision.
 
-🟢 Before that I was a Data Science intern at Deloitte India in the Audit & Advisory division where I worked on descriptive and predictive data analytics!
+🟢 Before that I was a Data Science intern at Deloitte India in the Audit & Advisory division where I worked on descriptive and predictive data analytics.
 
 🎓 I completed my Bachelors of Technology in Computer Science and Engineering in 2023 from Bennett University, Greater Noida, India.
 
