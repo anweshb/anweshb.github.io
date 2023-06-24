@@ -33,7 +33,7 @@ I recently completed my Bachelors of Technology in Computer Science and Engineer
 | Date     | Event |  
 | :---     |    :----   |  
 | June'23  | Joining IIT Delhi as a research assistant     |
-| May'23   | Paper submitted at ACM CCS (under review)
+| May'23   | Paper submitted at ACM CCS (under review)      |
 | Sept'22  | Starting research internship at SCP, Georgia Tech       |
 | July'22  | Joining Deloitte as a Data Science Intern|
 | June'22  | Selected for the Global Academic Internship Programme being held at the National University of Singapore|
