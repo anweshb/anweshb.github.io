@@ -21,16 +21,22 @@ redirect_from:
 
 # 🎓 Education
 
-I completed my Bachelors of Technology in Computer Science and Engineering from Bennett University, Greater Noida.
+I recently completed my Bachelors of Technology in Computer Science and Engineering from Bennett University, Greater Noida.
 
 # 🗞️ News
-
-
-[June 2023]       Joining IIT Delhi as a research assistant\
+<!-- [June 2023]       Joining IIT Delhi as a research assistant\
 [May 2023]        Paper submitted at ACM CCS (under review)\
 [Sept 2022]       Starting research internship at SCP, Georgia Tech\
 [July 2022]       Joining Deloitte as a Data Science Intern\
-[June 2022]       Selected for the Global Academic Internship Programme at the National University of Singapore
+[June 2022]       Selected for the Global Academic Internship Programme at the National University of Singapore -->
+
+| Date      | Event |  
+| :---        |    :----:   |  
+| June'23    | Joining IIT Delhi as a research assistant     |
+| Sept'22 | Starting research internship at SCP, Georgia Tech       |
+| July'22 | Joining Deloitte as a Data Science Intern|
+| June'22 | Selected for the Global Academic Internship Programme being held at the National University of Singapore|s
+
 
 
 
