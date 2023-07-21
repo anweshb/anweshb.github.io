@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🚧 🔨 🦺 WEBSITE IS UNDER CONSTRUCTION!!!!
+👨🏾‍💻 I am a currently a research assistant at the Indian Institute of Technology, Delhi in [Prof Vireshwar Kumar's](https://www.cse.iitd.ac.in/~viresh/author/vireshwar-kumar/) lab, where I am working on Adverserial Machine Learning, particularly for automotive systems.
 
-
-👨🏾‍💻 I am a currently a research assistant at the Indian Institute of Technology, Delhi in [Prof Vireshwar Kumar's](https://www.cse.iitd.ac.in/~viresh/author/vireshwar-kumar/) lab, where I am working on securing automotive systems using Deep Learning.
-
-🐝 Previously, I spent 8 months as a research intern at the Georgia Institute of Technology where I was advised by [Prof Wenke Lee](https://wenke.gtisc.gatech.edu) and [Prof Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) where I worked to detect attacks in Cyber Physical Systems using Deep Learning and Computer Vision.
+🐝 Previously, I spent 8 months as a research intern at the Georgia Institute of Technology where I was advised by [Prof Wenke Lee](https://wenke.gtisc.gatech.edu) and [Prof Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) where I worked on anomaly detection with Deep Learning for Cyber-Physical Systems.
 
 🟢 Before that I was a Data Science intern at Deloitte India in the Audit & Advisory division where I worked on descriptive and predictive data analytics.
 
