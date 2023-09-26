@@ -35,7 +35,7 @@ I recently completed my Bachelors of Technology in Computer Science and Engineer
 | June'22  | Selected for the Global Academic Internship Programme being held at the National University of Singapore|
 
 
-<div id="mapmyvisitors-container" style="width: 10px; height: 10px;">
+<div id="mapmyvisitors-container" style="width: 30px; height: 30px;">
     <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=yHOvji1sKt1PeboBOd7cLtNcJih1GiQsM9KVXmrucYQ&cl=ffffff&w=a"></script>
 </div>
 
