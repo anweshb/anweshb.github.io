@@ -14,7 +14,7 @@ redirect_from:
 
 🟢 Before that I was a Data Science intern at Deloitte India in the Audit & Advisory division where I worked on descriptive and predictive data analytics.
 
-🔬 My current research interests are Computer Vision and Applied Deep Learning for Cybersecurity and Healthcare
+🔬 My current research interests are Computer Vision, Adversarial Machine Learning and Applied Deep Learning for Cybersecurity and Healthcare
 
 # 🎓 Education
 
