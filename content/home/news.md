@@ -2,7 +2,7 @@
 active: true
 widget: portfolio
 headless: true
-weight: 20
+weight: 20  
 title: News
 subtitle: ''
 content:
@@ -20,7 +20,7 @@ content:
   count: 3
   offset: 0
 design:
-  columns: '2'
+  columns: '1'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
